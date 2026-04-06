@@ -1,36 +1,32 @@
 # 👋 Hi, I'm Denislav Stoyanov
 
-Welcome to my GitHub profile! I'm a passionate developer with a strong focus on building robust applications, backend services, and modern web solutions. Here you'll find a selection of my projects that showcase my interests, skills, and growth as a developer.
+Developer, tinkerer, and occasional menace to systemd.
 
-## 🚀 My Top Projects
+---
 
-- **[Fouhou-backend](https://github.com/StoyanovDenislav/Fouhou-backend)**  
-  A robust backend powering the Fouhou project. Focused on scalability, RESTful APIs, and reliable service design.
+## 🚀 Projects
 
-- **[Fouhou](https://github.com/StoyanovDenislav/Fouhou)**  
-  A dynamic frontend project, likely working in tandem with Fouhou-backend, featuring modern web technologies.
+### 🤖 [FaceFetch](https://github.com/StoyanovDenislav/FaceFetch)
+A robot with a real-time dashboard that uses computer vision to recognize faces and fire alerts. Built with a team — hardware meets software, CV meets web.
 
-- **[stoyanography-nextjs-tsx-aceternity](https://github.com/StoyanovDenislav/stoyanography-nextjs-tsx-aceternity)**  
-  My personal blog and portfolio, built with Next.js and TypeScript, showcasing creative and technical writing.
+### 🐧 [CachartixOS](https://github.com/StoyanovDenislav/CachartixOS)
+*The install scripts from hell for Artix, powered by CachyOS.*  
+A systemd-free Linux setup that layers the CachyOS BORE kernel on top of Artix OpenRC. Full disk encryption, KDE Plasma 6 on Wayland, privacy tools baked in. Born out of spite for the systemd age verification nonsense.
 
-- **[stoyanography-backend](https://github.com/StoyanovDenislav/stoyanography-backend)**  
-  The supporting backend for my portfolio, emphasizing authentication, content management, and API integration.
+### 🎮 [Fouhou](https://github.com/StoyanovDenislav/Fouhou) + [Fouhou Backend](https://github.com/StoyanovDenislav/Fouhou-backend)
+A Touhou-like bullet hell game built in Unity, with a supporting backend for scores, auth and services.
 
-- **[StoyanovDenislav/StoyanovDenislav](https://github.com/StoyanovDenislav/StoyanovDenislav)**  
-  This very page! My personal README and GitHub profile.
+---
 
-## 🛠️ My Strengths
+## 🛠️ What I work with
 
-- **Backend Development:** RESTful APIs, authentication, database design, performance optimization.
-- **Frontend Development:** Modern JavaScript/TypeScript, React, Next.js, UI/UX best practices.
-- **Full-Stack Integration:** Building seamless experiences across the stack, from database to UI.
-- **DevOps & Deployments:** Familiar with deployment pipelines, version control, and service reliability.
+- **Backend:** REST APIs, authentication, database design, performance optimization
+- **AI & ML:** Python, C++, computer vision, model pipelines
+- **Game Dev:** Unity, C#
+- **Systems:** Linux, bash, OpenRC, kernel stuff apparently
 
-## 🌱 Always Learning
+---
 
-I'm continuously exploring new technologies, frameworks, and best practices to grow as a developer. I enjoy contributing to open source and building meaningful projects that solve real-world problems.
+## 📫 Let's connect
 
-## 📫 Let's Connect!
-
-Feel free to check out my repositories, connect with me, or reach out for collaboration.  
-Happy coding! 🚀
+Check out the repos, open an issue, or just say hi.
